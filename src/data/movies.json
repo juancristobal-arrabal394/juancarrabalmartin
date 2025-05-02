@@ -5,6 +5,7 @@
       "genero": "Ciencia Ficción",
       "duracion": "2h 28min",
       "puntuacion": "8.8",
+      "precio": 14.99,
       "imagen": "movie1.jpg"
     },
     {
@@ -13,6 +14,7 @@
       "genero": "Aventura, Drama",
       "duracion": "2h 49min",
       "puntuacion": "8.6",
+      "precio": 16.50,
       "imagen": "movie2.jpg"
     },
     {
@@ -21,6 +23,7 @@
       "genero": "Acción, Sci-Fi",
       "duracion": "2h 16min",
       "puntuacion": "8.7",
+      "precio": 12.99,
       "imagen": "movie3.jpg"
     },
     {
@@ -29,6 +32,7 @@
       "genero": "Crimen, Drama",
       "duracion": "2h 55min",
       "puntuacion": "9.2",
+      "precio": 18.75,
       "imagen": "movie4.jpg"
     },
     {
@@ -37,6 +41,7 @@
       "genero": "Crimen, Drama",
       "duracion": "2h 34min",
       "puntuacion": "8.9",
+      "precio": 15.20,
       "imagen": "movie5.jpg"
     }
   ]
