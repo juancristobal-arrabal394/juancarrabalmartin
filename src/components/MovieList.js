@@ -17,7 +17,7 @@ const MovieList = () => {
 
   useEffect(() => {
     // Cargar datos desde la API REST
-    fetch('https://my-json-server.typicode.com/juancristobal-arrabal394/movieswebapi/movies')
+    fetch('https://movies-ap-iweb.vercel.app/movies')
       .then(response => response.json())
       .then(data => setMovies(data))
       .catch(error => console.error('Error al cargar películas:', error));
